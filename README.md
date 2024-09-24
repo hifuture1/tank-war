@@ -1,7 +1,7 @@
 # tank-war
 这是一个复刻的坦克大站的游戏项目  
 tank war .rar是游戏本体，解压文件，点击文件中的tank war.exe文件就可以开始愉快地游戏啦！  
-This is a replica of the game project of Tank Station  
+This is a replica of the game project of Tank war  
 Tank War .rar is the base game, unzip the file, click on the tank war.exe file in the file to start playing happily!  
 
 ## 游戏说明
